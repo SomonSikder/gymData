@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Body Combat",
+    "description": "BODYCOMBAT is an exercise class that lets you punch and kick your way towards your fitness goals. Not only is it a great whole-body workout for cardio fitness,...",
+    "img": "https://image.freepik.com/free-photo/young-female-kickboxing-fighter-training-isolated-white-wall-caucasian-blonde-girl-red-sportswear-practicing-martial-arts-concept-sport-healthy-lifestyle-motion-action-youth_155003-37804.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Yoga Fitness",
+    "description": "Yoga is an ancient form of exercise that focuses on strength, flexibility and breathing to boost physical and mental wellbeing. ",
+    "img": "https://image.freepik.com/free-photo/young-woman-doing-sukhasana-exercise-side-view_1163-5084.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Zumba Fitness",
+    "description": "Zumba is a fitness program that combines Latin and international music with dance moves.",
+    "img": "https://image.freepik.com/free-photo/pretty-woman-enjoys-zumba_197531-13129.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Cardio Training",
+    "description": "Cardio exercise, which is sometimes referred to as aerobic exercise, is any rhythmic activity that raises your heart rate into your target heart rate zone.",
+    "img": "https://image.freepik.com/free-photo/view-motivated-teenagers-demonstrate-good-flexibility-lean-feet-stretching-exercises-near-stairs-wear-comfortable-sneakers-training-have-dark-healthy-skin-strong-muscular-body_273609-29357.jpg"
+  },
+  {
+    "id": 5,
+    "name": "CrossFit Trainig",
+    "description": "A form of high intensity interval training, CrossFit is a strength and conditioning workout that is made up of functional movement performed at a high intensity level. ",
+    "img": "https://image.freepik.com/free-photo/close-up-woman-doing-crossfit-workout_23-2149080419.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Weight Loss",
+    "description": "Weight training is a common type of strength training for developing the strength and size of skeletal muscles.",
+    "img": "https://image.freepik.com/free-photo/young-woman-measuring-her-waist_144627-28767.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Strength Training",
+    "description": "Strength training — also known as weight or resistance training — is physical activity designed to improve muscular strength and fitness by exercising a specific muscle or muscle group against external resistance,",
+    "img": "https://image.freepik.com/free-photo/dark-tired-school-presentation-finger_1134-822.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Women's only Studio",
+    "description": "We offers our female members a private, comfortable ladies-only workout facility within our fitness clubs for stress-free workouts. ",
+    "img": "https://as2.ftcdn.net/v2/jpg/01/52/35/33/500_F_152353361_SGhYmclkOCk7Z4QdfsnizzSTi18ht5FB.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Shake bar & Snacks",
+    "description": "n addition to shakes, we serve a wide array of heart healthy snacks ranging from homemade granola to fruit salad.",
+    "img": "https://image.freepik.com/free-photo/fried-spring-rolls-cutting-board_1150-17010.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Steam & Sauna room",
+    "description": "A steam room is a heated room that people use for relaxation and to relieve some medical conditions. They are often found in gyms or spas.",
+    "img": "https://image.freepik.com/free-photo/beauty-woman-with-lily-hair-relaxing-sauna_329181-1876.jpg"
+  }
+]
